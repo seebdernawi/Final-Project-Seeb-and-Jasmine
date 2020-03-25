@@ -1,0 +1,104 @@
+body {
+    background-color: rgb(252, 221, 225)
+}
+
+h1{
+    color:white;
+    font-family: 'Lobster', cursive;
+    font-size: 100px;
+    text-align: center;
+}
+
+h2{
+    color: palevioletred;
+    font-family: 'Lobster', cursive;
+    font-size: 60px;
+    text-align: center;
+}
+
+h5{
+    color:rgb(184, 184, 184);
+    font-family: 'Lobster', cursive;
+    font-size: 40px;
+    text-align: center;
+
+}
+ img {
+    opacity: 0.6;
+    border-radius: 50%;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.container {
+    position: relative;
+    text-align: center;
+    position: absolute;
+  }
+
+.centered {
+    color: white;
+    text-align: center;
+
+    font-family: 'Courgette', cursive;
+    font-size: 45px;
+    position: absolute;
+
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+.btn{
+   
+    border-width: 10px;
+    border-color: white;
+    background: pink;
+    color: rgb(255, 255, 255);
+    font-family: 'Courgette', cursive; 
+    font-size: 35px;
+    padding: 15px 25px;  
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+   
+
+    
+}
+  
+
+
+
+h4 {
+    margin: 100px;
+    color: palevioletred;
+    font-family: 'Lobster', cursive;
+    font-size: 50px;
+    text-align: center;
+    text-decoration: underline;
+    line-height: 5px;
+    padding-top: 20px;
+}
+
+.box2 {
+    line-height: 40px;
+    background-color: azure;
+    margin: 600px;
+    margin-left: 300px;
+    vertical-align: center;
+    height: 350px;
+    width: 400px;
+    border-radius: 5%;
+    color:rgb(184, 184, 184);;
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+    text-align: center;
+
+    
+}
+
