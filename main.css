@@ -1,0 +1,101 @@
+body {
+    background-color: rgb(252, 221, 225)
+}
+
+h1{
+    color:white;
+    font-family: 'Lobster', cursive;
+    font-size: 100px;
+    text-align: center;
+}
+
+h2{
+    color: palevioletred;
+    font-family: 'Lobster', cursive;
+    font-size: 60px;
+    text-align: center;
+}
+
+h5{
+    color:rgb(184, 184, 184);
+    font-family: 'Lobster', cursive;
+    font-size: 40px;
+    text-align: center;
+
+}
+ img {
+    opacity: 0.6;
+    border-radius: 50%;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+
+.centered {
+    color: white;
+    text-align: center;
+    font-family: 'Courgette', cursive;
+    font-size: 40px;
+    padding: 25px 40px;  
+    margin: 0px;
+    position: absolute;
+    line-height: 40px;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+.btn{
+    text-align: center;
+    border-width: 3px;
+    border-color: white;
+    background: none;
+    color: rgb(255, 255, 255);
+    font-family: 'Courgette', cursive; 
+    border: 2px solid #palevioletred;
+    font-size: 30px;
+    padding: 25px 25px;  
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+}
+  
+
+
+
+h4 {
+    margin-top: 20px;
+    color: palevioletred;
+    font-family: 'Lobster', cursive;
+    font-size: 50px;
+    text-align: center;
+    text-decoration: underline;
+    line-height: 5px;
+}
+
+.box2 {
+    line-height: 40px;
+    background-color: azure;
+    align-self: center;
+    height: 400px;
+    width: 400px;
+    border-radius: 5%;
+    color:rgb(184, 184, 184);;
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: none;
+    
+}
+
